@@ -17,7 +17,7 @@ Soy un desarrollador **Java Full Stack** con experiencia en el ciclo completo de
 *   🔭 Actualmente estoy desarrollando proyectos para mi portafolio, como un **Sistema de Gestión API** y un **E-Commerce Backend**.
 *   🌱 Me especializo en el desarrollo backend con **Java y Spring Boot**, aplicando principios de **arquitectura limpia, patrones de diseño SOLID y Clean Code**.
 *   👯 Estoy buscando colaborar en proyectos desafiantes donde pueda aportar mi experiencia en backend y mi visión integral del negocio.
-*   📄 Conoce más sobre mi experiencia en mi [CV](assests/JorgeLuisSanchezJimenez_CV.pdf) o en mi [Portafolio Web](https://jorge-sanch.github.io/portafolio/).
+*   📄 Conoce más sobre mi experiencia en mi [CV](https://github.com/jorge-sanch/jorge-sanch/blob/main/assests/JorgeLuisSanchezJimenez_CV.pdf) o en mi [Portafolio Web](https://jorge-sanch.github.io/portafolio/).
 *   📫 Cómo contactarme: **sanchez.j.jolu@gmail.com**
 
 ---
