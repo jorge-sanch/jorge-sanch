@@ -1,6 +1,6 @@
 <!-- Encabezado Principal con tu nombre y rol -->
 <h1 align="center">Hola, soy Jorge Sanchez 👋</h1>
-<h3 align="center">Java Full Stack Developer de Madrid, España</h3>
+<h3 align="center">Java Full Stack Developer</h3>
 
 <!-- Badges (opcional pero muy vistoso) - Puedes generarlos en https://shields.io/ -->
 <p align="center">
@@ -17,7 +17,7 @@ Soy un desarrollador **Java Full Stack** con experiencia en el ciclo completo de
 *   🔭 Actualmente estoy desarrollando proyectos para mi portafolio, como un **Sistema de Gestión API** y un **E-Commerce Backend**.
 *   🌱 Me especializo en el desarrollo backend con **Java y Spring Boot**, aplicando principios de **arquitectura limpia, patrones de diseño SOLID y Clean Code**.
 *   👯 Estoy buscando colaborar en proyectos desafiantes donde pueda aportar mi experiencia en backend y mi visión integral del negocio.
-*   📄 Conoce más sobre mi experiencia en mi [CV](assests/JorgeLuisSanchezJimenez_CV.pdf) o en mi [Portafolio Web](enlace-a-tu-portafolio).
+*   📄 Conoce más sobre mi experiencia en mi [CV](assests/JorgeLuisSanchezJimenez_CV.pdf) o en mi [Portafolio Web](https://jorge-sanch.github.io/portafolio/).
 *   📫 Cómo contactarme: **sanchez.j.jolu@gmail.com**
 
 ---
